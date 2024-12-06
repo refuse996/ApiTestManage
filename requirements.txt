@@ -56,7 +56,7 @@ SQLAlchemy==1.2.14
 sqlalchemy-migrate==0.11.0
 sqlparse==0.2.4
 Tempita==0.5.2
-tornado==5.1.1
+tornado==6.4.2
 tzlocal==1.4
 urllib3==1.24.1
 vine==1.1.4
